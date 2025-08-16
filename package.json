@@ -1,0 +1,44 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "AI technology project focused on creating AI-generated videos for modern digital experiences.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "cors": "^2.8.5",
+    "axios": "^0.24.0",
+    "react-router-dom": "^6.20.0",
+    "next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.28.0",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "keywords": [
+    "AI",
+    "technology",
+    "videos",
+    "modern",
+    "digital"
+  ],
+  "author": "AI Team",
+  "license": "MIT",
+  "private": true
+}
